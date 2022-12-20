@@ -1,6 +1,9 @@
+
 # meu-primeiro-projeto
 Esse projeto faz parte do meu primeiro desafio do DIO, desculpem ainda estou começand
-#Programa em C  Imposto de renda
+#Programa em C Imposto de Renda
+
+
    float sb,ir;
     printf("Digite seu Salario Bruto:\n");
     
